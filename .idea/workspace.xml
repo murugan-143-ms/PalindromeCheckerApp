@@ -33,6 +33,7 @@
     "Application.PalindromeCheckerApp.executor": "Run",
     "Application.PalindromeCheckerApp2.executor": "Run",
     "Application.PalindromeCheckerApp3.executor": "Run",
+    "Application.PalindromeCheckerApp4.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
