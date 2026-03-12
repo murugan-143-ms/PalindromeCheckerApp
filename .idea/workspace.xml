@@ -32,6 +32,7 @@
   "keyToString": {
     "Application.PalindromeCheckerApp.executor": "Run",
     "Application.PalindromeCheckerApp2.executor": "Run",
+    "Application.PalindromeCheckerApp3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -41,7 +42,7 @@
     "last_opened_file_path": "C:/Users/Admin/Documents/RA2411047010177/PalindromeCheckerApp"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PalindromeCheckerApp2">
+  <component name="RunManager" selected="Application.PalindromeCheckerApp3">
     <configuration name="PalindromeCheckerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromeCheckerApp" />
       <module name="App" />
@@ -51,6 +52,13 @@
     </configuration>
     <configuration name="PalindromeCheckerApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromeCheckerApp2" />
+      <module name="App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeCheckerApp3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeCheckerApp3" />
       <module name="App" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeCheckerApp3" />
         <item itemvalue="Application.PalindromeCheckerApp2" />
         <item itemvalue="Application.PalindromeCheckerApp" />
       </list>
