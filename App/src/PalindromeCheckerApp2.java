@@ -1,4 +1,5 @@
-public class PalindromeCheckerApp2 {
+public class PalindromeCheckerApp2
+{
 
         public static void main(String[] args) {
             // 1. Hardcoded String Literal
