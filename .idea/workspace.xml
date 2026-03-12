@@ -31,7 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.PalindromeCheckerApp.executor": "Run",
-    "Application.PalindromeCheckerApp2.executor": "Debug",
+    "Application.PalindromeCheckerApp2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
